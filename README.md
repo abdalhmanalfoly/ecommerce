@@ -54,9 +54,13 @@ Sendemail
 💡 The goal of this project is to provide a fully integrated solution for building a modern online store with all the necessary features for both developers and users.
 
 📢 Check out the source code on GitHub:
-🔗 GitHub Repository :
+🔗 GitHub Repository frontend :
 
-https://github.com/abdalhmanalfoly/ecommerce-web-app
+[https://github.com/abdalhmanalfoly/ecommerce-web-app
+](https://github.com/abdalhmanalfoly/ecommerce)
+
+🔗 GitHub Repository strapi :
+
 
 
 I’d love to hear your thoughts and feedback! Do you have any ideas for improvements? Let’s discuss in the comments or via messages! 👇
