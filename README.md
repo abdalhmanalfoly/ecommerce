@@ -1,5 +1,4 @@
-# 🚀 Launching My New Project: A Fullstack E-Commerce Platform 🎉
-
+🚀 Launching My New Project: A Fullstack E-Commerce Platform 🎉
 I’m excited to share my latest project, a Fullstack E-Commerce Application that includes all the essential features needed for a modern online store! 🌟
 
 🔹 Key Features:
@@ -54,11 +53,12 @@ Sendemail
 💡 The goal of this project is to provide a fully integrated solution for building a modern online store with all the necessary features for both developers and users.
 
 📢 Check out the source code on GitHub:
-🔗 GitHub Repository frontend :
+🔗 Frontend Repository: 
 https://github.com/abdalhmanalfoly/ecommerce
+🔗 Backend Repository: https://github.com/abdalhmanalfoly/ecommerce-backend-strapi
 
-🔗 GitHub Repository strapi :
-https://github.com/abdalhmanalfoly/ecommerce-backend-strapi
+🎥 I’ve also created a video explaining the key parts of the E-Commerce platform. Check it out here:
+🔗 YouTube Video: https://youtu.be/9C6e06Qr_fY?feature=shared
 
 I’d love to hear your thoughts and feedback! Do you have any ideas for improvements? Let’s discuss in the comments or via messages! 👇
 
