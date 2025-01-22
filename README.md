@@ -55,13 +55,10 @@ Sendemail
 
 📢 Check out the source code on GitHub:
 🔗 GitHub Repository frontend :
-
-[https://github.com/abdalhmanalfoly/ecommerce-web-app
-](https://github.com/abdalhmanalfoly/ecommerce)
+https://github.com/abdalhmanalfoly/ecommerce
 
 🔗 GitHub Repository strapi :
-
-
+https://github.com/abdalhmanalfoly/ecommerce-backend-strapi
 
 I’d love to hear your thoughts and feedback! Do you have any ideas for improvements? Let’s discuss in the comments or via messages! 👇
 
